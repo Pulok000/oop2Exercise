@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\OOP2\lab\lab 3\Lab-03 task01\Lab-03 task01\bin\Debug\Lab-03 task01.exe.config
+C:\Users\admin\Desktop\OOP2\lab\lab 3\Lab-03 task01\Lab-03 task01\bin\Debug\Lab-03 task01.exe
+C:\Users\admin\Desktop\OOP2\lab\lab 3\Lab-03 task01\Lab-03 task01\bin\Debug\Lab-03 task01.pdb
+C:\Users\admin\Desktop\OOP2\lab\lab 3\Lab-03 task01\Lab-03 task01\obj\Debug\Lab-03 task01.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\OOP2\lab\lab 3\Lab-03 task01\Lab-03 task01\obj\Debug\Lab-03 task01.exe
+C:\Users\admin\Desktop\OOP2\lab\lab 3\Lab-03 task01\Lab-03 task01\obj\Debug\Lab-03 task01.pdb
